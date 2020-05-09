@@ -4,3 +4,4 @@ GitとGitHubの基本的なワークフロー
 - 変更をコミットしよう
 - ファイルの削除
 - git status
+- git diff
